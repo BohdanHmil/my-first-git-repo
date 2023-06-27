@@ -2,3 +2,5 @@ sword and spear
 wall of shields
 smthn 1
 smthn 2
+smthn 3
+smthn 4
